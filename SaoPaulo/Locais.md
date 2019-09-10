@@ -22,5 +22,5 @@ TODO: Tranformar isso em um YAML para gerar a página e etc etc.
 * Contato: Yuri
 
 ### Neon Pagamentos
-* Endereço: Avenida Hugria, 1400
+* Endereço: Rua Hugria, 1400
 * Contato: Kleber Rocha
