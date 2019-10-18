@@ -24,3 +24,7 @@ TODO: Tranformar isso em um YAML para gerar a página e etc etc.
 ### Neon Pagamentos
 * Endereço: Rua Hugria, 1400
 * Contato: Kleber Rocha
+
+### SumUp Soluções de Pagamento
+* Endereço: Rua Gilberto Sabino, 215 - Pinheiros, São Paulo
+* Contato: Carol Valencia
