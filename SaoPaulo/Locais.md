@@ -32,3 +32,7 @@ TODO: Tranformar isso em um YAML para gerar a página e etc etc.
 ### BRQ Solutions
 * Endereço: Rua Boa Vista, 254 – 9º Andar - Centro, São Paulo
 * Contato: Noufer Silva
+
+### Claro Brasil
+* Endereço: Rua Verbo Divino, 1356 – Chácara Santo Antonio, São Paulo
+* Contato: Rodrigo Montaleão
