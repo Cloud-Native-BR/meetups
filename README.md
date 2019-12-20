@@ -10,6 +10,7 @@ Link para o Meetup: https://www.meetup.com/pt-BR/Cloud-Native-Sao-Paulo/
 ## Organização
 
 ### São Paulo
+* Alexandre Stratikopoulos - github.com/astratikopoulo - Twitter: @astratikopoulos
 * Anderson Duboc - github.com/duboc - Twitter: @duboc
 * Ricardo Katz - github.com/rikatz - Twitter: @rpkatz
 * Yago Nobre - github.com/yagonobre - Twitter: @YagoYns
