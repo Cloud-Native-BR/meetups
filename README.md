@@ -2,10 +2,9 @@
 
 Colocaremos aqui os vídeos, palestras e slides dos Meetups que ocorreram em São Paulo.
 
-Vamos organizar depois aos poucos ;)
-
-
 Link para o Meetup: https://www.meetup.com/pt-BR/Cloud-Native-Sao-Paulo/
+
+[Calendário de Meetups](https://calendar.google.com/calendar/embed?src=0n8k42skd8nsq7qkg43t9sk9k0%40group.calendar.google.com&ctz=America%2FSao_Paulo)
 
 ## Organização
 
@@ -24,4 +23,8 @@ Link para o Meetup: https://www.meetup.com/pt-BR/Cloud-Native-Sao-Paulo/
 
 ### Porto Alegre
 * Alexandre Mioranza - github.com/amioranza - Twitter: @a_mioranza 
+
+### Recife
+* Lucas Assad
+* Marcelo Rocha Rabelo de Andrade
 
