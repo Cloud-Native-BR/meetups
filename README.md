@@ -25,6 +25,6 @@ Link para o Meetup: https://www.meetup.com/pt-BR/Cloud-Native-Sao-Paulo/
 * Alexandre Mioranza - github.com/amioranza - Twitter: @a_mioranza 
 
 ### Recife
-* Lucas Assad
+* Lucas Assad  - github.com/lsca
 * Marcelo Rocha Rabelo de Andrade
 
