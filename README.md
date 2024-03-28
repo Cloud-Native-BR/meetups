@@ -28,3 +28,10 @@ Link para o Meetup: https://www.meetup.com/pt-BR/Cloud-Native-Sao-Paulo/
 * Lucas Assad  - github.com/lsca
 * Marcelo Rocha Rabelo de Andrade
 
+### Santa Catarina
+
+* Amim Knabben - github.com/knabben
+* Rafael Mateus
+* Peter König
+* Hudson Coutinho
+* Thiago Finardi
